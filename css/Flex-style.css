@@ -115,7 +115,7 @@ header .container {
 
 /* ===== BANNER PRINCIPAL ===== */
 .banner {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('/css/img/capa.png') no-repeat center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('css/img/capa.png') no-repeat center/cover;
     height: 80vh;
     display: flex;
     align-items: center;
